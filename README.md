@@ -11,21 +11,6 @@ The Kaggle Playground Competition series offers beginner-to-intermediate level d
 
 ---
 
-## 🚀 Project Structure
-
-The repository is structured as follows:
-
-```
-├── data/                # Placeholder for dataset downloads and preprocessing files
-├── notebooks/           # Jupyter notebooks for EDA, feature engineering, and modeling
-├── src/                 # Scripts for custom functions, models, and utilities
-├── results/             # Model outputs, predictions, and evaluation metrics
-├── requirements.txt     # Python dependencies for the project
-└── README.md            # Project documentation
-```
-
----
-
 ## 🧠 Approach
 
 ### 1. Exploratory Data Analysis (EDA)
@@ -37,24 +22,9 @@ The repository is structured as follows:
 
 ### 3. Model Building
 - Built multiple models, including:
-  - **Baseline Model:** [Specify model]
-  - **Advanced Models:** [Specify model(s)]
+  - **Baseline Model:** XGBoost
+  - **Advanced Models:** LightGBM
 - Utilized techniques such as hyperparameter tuning and cross-validation to optimize performance.
-
-### 4. Evaluation
-- Evaluated models using metrics like **[list metrics, e.g., accuracy, RMSE, etc.]**.
-- Compared results to identify the best-performing model.
-
----
-
-## 📈 Results
-
-- **Best Model:** To be updated
-- **Key Metrics:** To be updated
-- **Leaderboard Score:** To be updated
-
----
-
 
 ## 🌟 Acknowledgments
 
